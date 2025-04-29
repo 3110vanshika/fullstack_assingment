@@ -27,3 +27,5 @@
 ##### Reset password page
 <img width="1276" alt="Screenshot 2025-04-29 at 10 43 14" src="https://github.com/user-attachments/assets/822f384f-0290-4d76-84bb-01d225fce990" />
 
+#### User block after 3 consecutive failed login attemps
+<img width="1468" alt="Screenshot 2025-04-29 at 10 58 56" src="https://github.com/user-attachments/assets/1a6da269-6e6d-46df-aec4-fc7e9c0a44b0" />
